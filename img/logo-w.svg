@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="455px" height="305px" viewBox="0 0 455 305" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="moon-hugo---logo/w" transform="translate(-70.000000, -98.000000)">
+            <g id="logo" transform="translate(-520.000000, 98.000000)">
+                <text id="Moon-" font-family="Poppins" font-size="120" font-weight="bold" line-spacing="100">
+                    <tspan x="574.315703" y="134" fill="#FFFFFF">Moon</tspan>
+                    <tspan x="928.435703" y="134" fill="#0064FF"> </tspan>
+                    <tspan x="582.135703" y="234" letter-spacing="0.200000003" fill="#FFFFFF">Hugo</tspan>
+                </text>
+                <rect id="Rectangle-1" stroke="#FFFFFF" stroke-width="10" x="590" y="0" width="455" height="305"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
